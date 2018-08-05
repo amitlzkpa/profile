@@ -8,4 +8,4 @@
 * [SEED App Data Vizualization]()
 * [3D Data Visuzliaztion](https://github.com/amitlzkpa/G3D)
 * [VR for Architecture](https://docs.google.com/presentation/d/1O33eKWV7hVRZQC-TmBLysirCh37541I5MpVejZHN-6s/edit?usp=sharing)
-* [Immersify](https://suppletechnologies.com/immersify)
+* [Immersify](https://www.food4rhino.com/app/immersify)
