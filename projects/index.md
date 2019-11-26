@@ -1,6 +1,5 @@
-# Works
+# Projects
 
-## Projects
 ### [Design School in Mumbai](https://amitlzkpa.wordpress.com/2014/10/17/thesis-project-design-school-in-navi-mumbai/)
 Proposal for a design school in Navi Mumbai.
 
@@ -28,7 +27,7 @@ A VR application for architetcural visualization and coordination.
 ### [Turtle 3D](https://turtle3d.herokuapp.com)
 Fun with 3D L-Systems on the web.
 
-### [Music Visualization](https://lotusaudio.herokuapp.com)
+### [Lotus Audio](/projects/lotus_audio/index.md)
 Visualizing music in 3D in the browser.
 
 ### [Steganogram](https://steganogram.herokuapp.com)

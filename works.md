@@ -1,1 +1,1 @@
-Moved to -> [Projects](/projects.index.md)
+Moved to -> [Projects](/projects/index.md)
