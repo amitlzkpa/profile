@@ -27,7 +27,7 @@ A VR application for architetcural visualization and coordination.
 ### [Turtle 3D](https://turtle3d.herokuapp.com)
 Fun with 3D L-Systems on the web.
 
-### [Lotus Audio](/projects/lotus_audio/index.md)
+### [Lotus Audio](./lotus_audio/index.md)
 Visualizing music in 3D in the browser.
 
 ### [Steganogram](https://steganogram.herokuapp.com)
