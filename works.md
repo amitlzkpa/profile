@@ -34,5 +34,20 @@ Visualizing music in 3D in the browser.
 ### [Steganogram](https://steganogram.herokuapp.com)
 Share images with secret messages embedded.
 
+### [Couchtrips](https://couchtrips.herokuapp.com)
+An online mapping application to save and share journeys.
+
+### [Ipjot](https://ipjot.herokuapp.com)
+Anonymous journaling app storing data on the Interplanetary File Store (IPFS).
+
+### [WebGL Globe]()
+An interactive browser based globe to visualize GeoJSON files.
+
+### [Screr](https://npmjs.com/screr)
+An npm package to create contribution reports for git repositories.
+
+### [NYC Landuse](https://nyc-landuse.herokuapp.com)
+A web app to visualize public land use data in New York City.
+
 
 ## [Writing](https://medium.com/@olapdesign)
