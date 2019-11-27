@@ -6,13 +6,13 @@ Proposal for a design school in Navi Mumbai.
 ### [Phugtal Architectural Analysis](https://amitlzkpa.wordpress.com/2013/10/02/analysis-of-druk-white-lotus-school/)
 Architetcural documentation of historic monsatery in remote Himalayas.
 
-### [Computational Funriture](https://o-lap.org)
+### [Computational Funriture](./o-lap/index.md)
 An online community for makers and designers to experiment with computational furniture.
 
 ### [CMU Course Review](https://cmucoursereviews.pythonanywhere.com)
 A web app listing course information, descriptions and reviews.
 
-### SEED App Data Vizualization
+### [SEED App Data Vizualization](./seed_app/index.md)
 Data visualization for building energy usage.
 
 ### [G3D](https://github.com/amitlzkpa/G3D)
