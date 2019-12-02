@@ -6,11 +6,11 @@ Proposal for a design school in Navi Mumbai.
 ### [Phugtal Architectural Analysis](https://amitlzkpa.wordpress.com/2013/10/02/analysis-of-druk-white-lotus-school/)
 Architetcural documentation of historic monsatery in remote Himalayas.
 
-### [Computational Funriture](./o-lap/index.md)
+### [O-LAP](./o-lap/index.md)
 An online community for makers and designers to experiment with computational furniture.
 
-### [CMU Course Review](https://cmucoursereviews.pythonanywhere.com)
-A web app listing course information, descriptions and reviews.
+### [CMU Course Review](https://amitlzkpa.wordpress.com/2016/02/24/cmu-course-review/)
+A web app to manage your course selections.
 
 ### [SEED App Data Vizualization](./seed_app/index.md)
 Data visualization for building energy usage.
@@ -24,7 +24,7 @@ A virtual reality tool to help architects think about designing spaces.
 ### [Immersify](https://www.food4rhino.com/app/immersify)
 A VR application for architetcural visualization and coordination.
 
-### [Turtle 3D](https://turtle3d.herokuapp.com)
+### [Turtle 3D](https://github.com/amitlzkpa/turtle3d)
 Fun with 3D L-Systems on the web.
 
 ### [Lotus Audio](./lotus_audio/index.md)
@@ -35,6 +35,12 @@ Share images with secret messages embedded.
 
 ### [Couchtrips](https://couchtrips.herokuapp.com)
 An online mapping application to save and share journeys.
+
+### [Dezi-estimate](https://amitlzkpa.wordpress.com/2016/02/24/dezi-estimate/)
+Architectural design tool to develop design options and test its financial performance in real time.
+
+### [City Formula](https://amitlzkpa.wordpress.com/2016/02/24/city-formula/)
+Environmental analysis based on proxy indicators.
 
 ### [Ipjot](https://ipjot.herokuapp.com)
 Anonymous journaling app storing data on the Interplanetary File Store (IPFS).
