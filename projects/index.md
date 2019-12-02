@@ -3,7 +3,7 @@
 ### [Design School in Mumbai](https://amitlzkpa.wordpress.com/2014/10/17/thesis-project-design-school-in-navi-mumbai/)
 Proposal for a design school in Navi Mumbai.
 
-### [Phugtal Architectural Analysis](https://amitlzkpa.wordpress.com/2013/10/02/analysis-of-druk-white-lotus-school/)
+### [Phugtal Architectural Analysis](https://amitlzkpa.wordpress.com/2013/10/03/analysis-and-documentation-of-phuktal-gonpa/)
 Architetcural documentation of historic monsatery in remote Himalayas.
 
 ### [O-LAP](./o-lap/index.md)
@@ -29,6 +29,9 @@ Fun with 3D L-Systems on the web.
 
 ### [Lotus Audio](./lotus_audio/index.md)
 Visualizing music in 3D in the browser.
+
+### [Druk White Lotus School Architectural Analysis](https://amitlzkpa.wordpress.com/2013/10/02/analysis-of-druk-white-lotus-school/)
+Architectural documentation and analysis of a sustainable school designed in Zanskar Valley.
 
 ### [Steganogram](https://steganogram.herokuapp.com)
 Share images with secret messages embedded.
