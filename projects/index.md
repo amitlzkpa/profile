@@ -6,13 +6,13 @@ Proposal for a design school in Navi Mumbai.
 ### [Phugtal Architectural Analysis](https://amitlzkpa.wordpress.com/2013/10/03/analysis-and-documentation-of-phuktal-gonpa/)
 Architetcural documentation of historic monsatery in remote Himalayas.
 
-### [O-LAP](./o-lap/index.md)
+### [O-LAP](https://o-lap.org/)
 An online community for makers and designers to experiment with computational furniture.
 
 ### [CMU Course Review](https://amitlzkpa.wordpress.com/2016/02/24/cmu-course-review/)
 A web app to manage your course selections.
 
-### [SEED App Data Vizualization](./seed_app/index.md)
+### [SEED Platform Data Vizualization](./seed_app/index.md)
 Data visualization for building energy usage.
 
 ### [G3D](https://github.com/amitlzkpa/G3D)
