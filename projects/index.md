@@ -48,7 +48,7 @@ Environmental analysis based on proxy indicators.
 ### [Ipjot](https://ipjot.herokuapp.com)
 Anonymous journaling app storing data on the Interplanetary File Store (IPFS).
 
-### [WebGL Globe]()
+### [GeoEarth](https://github.com/amitlzkpa/geoearth)
 An interactive browser based globe to visualize GeoJSON files.
 
 ### [Screr](https://npmjs.com/screr)
