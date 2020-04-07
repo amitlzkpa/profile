@@ -1,5 +1,9 @@
 # Speaking
 
+### FOSDEM Open Source Design devroom, Brussels 2020
+Presented a talk titled 'Some Excerpts from the Theory of Design in Architecture' at the Open Source Design devroom.
+[Talk](https://fosdem.org/2020/schedule/event/some_excerpts_from_theory_of_design_in_architecture/)
+
 ### FOSDEM Open Source Design & Javascript devroom, Brussels 2019
 Presented a talk on project for making parametric furniture using web technologies.  
 [Talk](https://archive.fosdem.org/2019/schedule/event/furniture_javascript/)
