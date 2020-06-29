@@ -3,7 +3,7 @@
 This article details my thought and design process in creating music visualizations.  
 
 [**DEMO**](https://lotusaudio.herokuapp.com/view/5ee4fe4610a0ec114483fd4e)  
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/c3BxyjRjNew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/c3BxyjRjNew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 This project started with an experience I had while I was in a temple. I was visiting The Lotus Temple in New Delhi when me and a friend happened to be there at the same time as the temple prayers were in process.  
 
@@ -18,7 +18,7 @@ It made me really curious about the space in which we were having the experienci
 
 Yet this particular instance caught my attention as the space was designed to be beautiful in its visual appeal as much as it's auditory experience. The structure of the temple is designed as 9 sided radially symmetrical enclosure with 3 petal like shapes in each side.  
 
-![Lotus Temple Interior](./images/lotus-interior.jpg)  
+![Lotus Temple Interior](./images/lotus-interiors.jpg)  
 _Dinudey Baidya from Bangalore, India / CC BY [https://commons.wikimedia.org/wiki/File:Interior_of_Lotus_temple.jpg]_  
 
 It is a design envisioned by Ar. Fariborz Sahba and it's construction was completed in 1986. The 27 petals and the dome form a thin barrier between the interior and exterior worlds. Within its internal world it marvelously creates a cocoon for moments of quiet introspection within the metropolis of New Delhi.  
@@ -31,7 +31,7 @@ Sound as I learnt in school are waves flowing through air. It is an excitation o
 Honestly speaking this made no sense to me when I tried to learn it for the first time. When I read about it they explained it with squiggly lines which got me confused.  
 
 I stumbled upon the following experiment which helped me get a better understanding.  
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/wvJAgrUBF4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/wvJAgrUBF4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 A quick description of what's going on here:  
 The instrument below is called a tone generator which is the source of the sound in this experiment. Once it starts it shakes the plate at regular intervals. This is how speakers recreate recorded sounds. On top they've sprayed some sand which are free to move around. When the device starts it emits sound of a set frequency.  
@@ -60,19 +60,19 @@ There's more cleanup with involved with how I'm reading and parsing the audio da
 With that let me launch into the experiment and show some visualizations.  
 
 ## Simple Sine Wave
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/mfqos-fU8cw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/mfqos-fU8cw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Double Wave Interference
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/uZeICbbfJfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/uZeICbbfJfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Triple Wave Interference (different locations)
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/BLT0xMRA4Go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/BLT0xMRA4Go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Double Wave Interference (different locations)
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/eENE1bLa00g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/eENE1bLa00g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Highs, Mds and Lows Interference (different locations) - Sine Chirp
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/c3BxyjRjNew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/c3BxyjRjNew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Those were  some examples which I think are really fun. You can actually load up any sound file you may have and try to visualise it this way.
 You can choose to experience the whole thing in VR if you have a headset. That's something that really awesome and I can highly recommend.  
