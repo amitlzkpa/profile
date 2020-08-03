@@ -1,7 +1,7 @@
 # Speaking
 
 ### CodeLand Conference, Online 2020
-A talk on visualizing the physics of sound on the browser.
+A talk on visualizing the physics of sound on the browser.  
 [Talk](https://dev.to/amitlzkpa/seeing-sound-with-amit-nambiar-18ik)
 
 ### FOSDEM Open Source Design devroom, Brussels 2020
