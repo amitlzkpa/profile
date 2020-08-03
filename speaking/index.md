@@ -1,5 +1,9 @@
 # Speaking
 
+### CodeLand Conference, Online 2020
+A talk on visualizing the physics of sound on the browser.
+[Talk](https://dev.to/amitlzkpa/seeing-sound-with-amit-nambiar-18ik)
+
 ### FOSDEM Open Source Design devroom, Brussels 2020
 Presented a talk titled 'Some Excerpts from the Theory of Design in Architecture' at the Open Source Design devroom.  
 [Talk](https://fosdem.org/2020/schedule/event/some_excerpts_from_theory_of_design_in_architecture/)
