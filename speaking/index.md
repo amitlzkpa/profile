@@ -1,5 +1,9 @@
 # Speaking
 
+### OpenUP Summit, Taiwan 2020
+Presented open source furniture project at a virtual conference focusing on open source design and technology.  
+[Slides](https://docs.google.com/presentation/d/1XMVyVNjuE32Nm3pUIUcMlvm0PQ68uAN9mcLe4nNm6ms/edit?usp=sharing)
+
 ### CodeLand Conference, Online 2020
 A talk on visualizing the physics of sound on the browser.  
 [Talk](https://dev.to/amitlzkpa/seeing-sound-with-amit-nambiar-18ik)
