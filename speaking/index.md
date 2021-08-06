@@ -2,7 +2,7 @@
 
 ### ConFoo, Online 2021  
 Presented a talk on deploying a good experience for 3D content on the web.  
-[Link](https://confoo.ca/en/yul2021/session/deploying-a-good-experience-for-3d-content-on-the-web)  
+[Link](https://confoo.ca/en/yul2021/session/deploying-a-good-experience-for-3d-content-on-the-web) | [Slides](https://docs.google.com/presentation/d/1d6j-lA_nyzrfrtgtWAULuVwdptagXDQqtKPqpk4INws/edit?usp=sharing)  
 
 ### OpenUP Summit, Taiwan 2020
 Presented open source furniture project at a virtual conference focusing on open source design and technology.  
