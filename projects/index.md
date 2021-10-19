@@ -45,6 +45,9 @@ Architectural design tool to develop design options and test its financial perfo
 ### [City Formula](https://amitlzkpa.wordpress.com/2016/02/24/city-formula/)
 Environmental analysis based on proxy indicators.
 
+### [eAIP Parser and Maps](https://github.com/amitlzkpa/eaip-parser)
+A parser to scan the eAIP portal and export the information to json files. Also contains maps plotting important elements of India's aeronautical infrastructure.
+
 ### [Ipjot](https://ipjot.herokuapp.com)
 Anonymous journaling app storing data on the Interplanetary File Store (IPFS).
 
