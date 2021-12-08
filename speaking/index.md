@@ -2,7 +2,7 @@
 
 ### AECTech2021 Workshop, Online 2021  
 The workshop walks participants through the process of building a web-based 3D model viewer for visualizing and sharing 3D models with their team.  
-[Link](https://github.com/tt-acm/aectech2021-3dviewer)  
+[Link](https://github.com/tt-acm/aectech2021-3dviewer) | [Slides](https://docs.google.com/presentation/d/1HOFNIUX1BC-c2bF6zPgNs7X7uvbgcwXUzfNc0dcfSk4/view)  
 
 ### ConFoo, Online 2021  
 Presented a talk on deploying a good experience for 3D content on the web.  
