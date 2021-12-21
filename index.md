@@ -1,6 +1,5 @@
 # Amit Nambiar
-*Computational Designer.*  
-I like using code for design.
+`Computational Designer | 3D Artist | Web Developer | CAD Programmer`  
 
 [Projects](/projects/index.md)  
 [Speaking](/speaking/index.md)  
