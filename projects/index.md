@@ -13,7 +13,7 @@ An online community for makers and designers to experiment with computational fu
 A web app to manage your course selections.
 
 ### [Chaos Lines](./chaos-lines/index.md)
-Collection of 3D attreactor fields.
+Collection of 3D attractor fields.
 
 ### [SEED Platform Data Vizualization](./seed_app/index.md)
 Data visualization for building energy usage.
@@ -29,6 +29,9 @@ A VR application for architetcural visualization and coordination.
 
 ### [Turtle 3D](https://github.com/amitlzkpa/turtle3d)
 Fun with 3D L-Systems on the web.
+
+### [Serpinski Volumes](./serpinski-volumes/index.md)
+3D Serpinski gaskets  made using random jumps.
 
 ### [Lotus Audio](./lotus_audio/index.md)
 Visualizing music in 3D in the browser.
