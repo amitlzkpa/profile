@@ -12,6 +12,9 @@ An online community for makers and designers to experiment with computational fu
 ### [CMU Course Review](https://amitlzkpa.wordpress.com/2016/02/24/cmu-course-review/)
 A web app to manage your course selections.
 
+### [Chaos Lines](./chaos-lines/index.md)
+Collection of 3D attreactor fields.
+
 ### [SEED Platform Data Vizualization](./seed_app/index.md)
 Data visualization for building energy usage.
 
