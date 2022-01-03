@@ -2,6 +2,7 @@
 
 ## Lorentz Line  
 [jsfiddle](https://jsfiddle.net/amitlzkpa/cregjq8z/)  
+<iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/cregjq8z/embedded/js,result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
 
 ## Rossler Line  
 [jsfiddle](https://jsfiddle.net/amitlzkpa/uckobvfz/)  
