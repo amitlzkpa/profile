@@ -30,5 +30,5 @@ Event: [Flashcrash COMMON livestream 2021](https://www.generativeart.com/loc2020
 Filler Visuals
 2021  
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=G5Bb3v8YK6E&list=PLDeicGW8SQOxxSQVCkok2T1v45b9hkQqh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zQSrPU_8j_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
