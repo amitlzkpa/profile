@@ -26,7 +26,7 @@ Music: [Andrew Cotter](https://thatcotter.github.io)
 
 
 ## 4
-Event: [Flashcrash COMMON livestream 2021](https://www.generativeart.com/loc2020/program.htm)
+Event: [Flashcrash - Lines Community stream 2021](https://www.generativeart.com/loc2020/program.htm)
 Filler Visuals
 2021  
 
