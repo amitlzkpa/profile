@@ -12,6 +12,10 @@
 [jsfiddle](https://jsfiddle.net/amitlzkpa/2rwsey9j/)  
 <iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/2rwsey9j/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
 
+## Pyramid(BufferGeometry)  
+[jsfiddle](https://jsfiddle.net/amitlzkpa/zwkq0edb/)  
+<iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/zwkq0edb/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
+
 ## Icosahedron  
 [jsfiddle](https://jsfiddle.net/amitlzkpa/qagL8d4z/)  
 <iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/qagL8d4z/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
