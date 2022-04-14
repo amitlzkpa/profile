@@ -4,6 +4,10 @@
 [jsfiddle](https://jsfiddle.net/amitlzkpa/hu964783/)  
 <iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/hu964783/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
 
+## Sphere(BufferGeometry) 
+[jsfiddle](https://jsfiddle.net/amitlzkpa/Lrhp10df/)  
+<iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/Lrhp10df/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
+
 ## Cube  
 [jsfiddle](https://jsfiddle.net/amitlzkpa/aL5wmech/)  
 <iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/aL5wmech/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
