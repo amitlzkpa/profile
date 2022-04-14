@@ -43,3 +43,7 @@
 ## Dodecahedron  
 [jsfiddle](https://jsfiddle.net/amitlzkpa/kaj1w5yr/)  
 <iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/kaj1w5yr/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
+
+## Dodecahedron(BufferGeometry)  
+[jsfiddle](https://jsfiddle.net/amitlzkpa/uem7rn0p/)  
+<iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/uem7rn0p/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
