@@ -28,6 +28,10 @@
 [jsfiddle](https://jsfiddle.net/amitlzkpa/qagL8d4z/)  
 <iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/qagL8d4z/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
 
+## Icosahedron(BufferGeometry)  
+[jsfiddle](https://jsfiddle.net/amitlzkpa/60cbsay5/)  
+<iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/60cbsay5/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
+
 ## Octahedron  
 [jsfiddle](https://jsfiddle.net/amitlzkpa/y3fb9d1t/)  
 <iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/y3fb9d1t/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
