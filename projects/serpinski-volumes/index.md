@@ -8,6 +8,10 @@
 [jsfiddle](https://jsfiddle.net/amitlzkpa/aL5wmech/)  
 <iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/aL5wmech/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
 
+## Cube(BufferGeometry)  
+[jsfiddle](https://jsfiddle.net/amitlzkpa/ytnb8eod/)  
+<iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/ytnb8eod/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
+
 ## Pyramid  
 [jsfiddle](https://jsfiddle.net/amitlzkpa/2rwsey9j/)  
 <iframe width="100%" height="300" src="//jsfiddle.net/amitlzkpa/2rwsey9j/embedded/result,js/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>  
