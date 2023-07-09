@@ -1,4 +1,7 @@
-# Serpinski Volumes  
+# Sierpinski Volumes  
+
+Sierpinski sieves, are fractals with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles. It is a mathematically generated pattern that is reproducible at any magnification or reduction.  
+This page shows some more Sierpinski shapes made using 3-dimensional platonic solids as the base. It uses the [random jump technique](https://en.wikipedia.org/wiki/Chaos_game) for creating the shapes.
 
 ## Sphere  
 [jsfiddle](https://jsfiddle.net/amitlzkpa/hu964783/)  
