@@ -26,6 +26,6 @@ Fast forward a few weeks, and you're in a team meeting. Senior personnel are ask
 
 Now, I'll admit this example is a bit far-fetched, but it's in an effort to raise a question – would it have been easier to implement local, in-context type checks for the function instead of imposing a system-wide type library? After all, regardless of the approach, test cases and system-wide changes will need updates. And let's face it, how many of us really start by inspecting every type in a codebase when we dive into a new project?
 
-## Conclusion
+## Conclusion: Resistant to Change?
 
-Well, there you have it – my tech ponderings of the day. Is type safety like those trusty training wheels, or do we sometimes need to take them off and embrace the freedom of coding without them? That's my rant for the day and hope it was spicy enough for you to retort ;)
+Well, there you have it – my tech ponderings of the day. We know about the trusty training wheels, but have you ever thought of [balance bikes](https://en.wikipedia.org/wiki/Balance_bike)? That's my rant for the day and hope it was spicy enough for you to retort ;)
