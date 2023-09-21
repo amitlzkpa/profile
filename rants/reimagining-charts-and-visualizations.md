@@ -4,7 +4,7 @@
 
 Charts and visualizations are powerful tools for conveying complex information in a concise and accessible manner. However, when it comes to creating technical diagrams, we often find ourselves stuck between two conflicting approaches. On one side, there's a desire to maintain purism, using standard sizes and shapes while avoiding bias. On the other side, there's a need to enhance readability and understandability, even if it means sacrificing some of the purist ideals. In this article, we'll delve into the reasons behind our conventional charting practices and explore the potential benefits of breaking free from the monotonous and drab patterns.
 
-The Purpose of Charts: Ideals of Publishing Purism or Communication?
+## The Purpose of Charts: Ideals of Publishing Purism or Communication?
 
 Charts serve a twofold purpose: to uphold ideals of publishing purism and to serve as a means of communication. Let's take a closer look at both aspects:
 
