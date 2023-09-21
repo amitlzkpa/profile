@@ -12,7 +12,7 @@ Now, here's the crux of my pondering: Does associating types (especially non-nul
 
 ## Comfort, Constraints and Alternatives for Type Safety
 
-To position it in a more concrete example - imagine a function with well-defined types for inputs, outputs, and internal variables. You could establish pre and post conditions to ensure these variables always stay in line, somewhat akin to the assurance provided by type safety. However, custom-tailoring these checks within the context of the function might make it easier to grasp when reading the code. It's a matter of perception – a local rulebook versus a global library of types used throughout a project.
+To position it in a more concrete example - imagine a function with well-defined types for inputs, outputs, and internal variables. Alternatively you could establish pre and post condition checks to ensure these variables always stay in line, somewhat akin to the assurance provided by type safety. However, custom-tailoring these checks within the context of the function might make it easier to grasp when reading the code. It's a matter of perception – a local rulebook versus a global library of types used throughout a project.
 
 But here's where it gets tricky. What happens when a type that has served a codebase well suddenly needs to accommodate a new feature? Picture a scenario where you're tasked with upgrading a method named `convertToLocalCurrency` to return not only the converted amount but also the name of the currency. It's a desperate requirement for a new market which has multiple local currencies, but your codebase was initially designed for a market which has had a single currency for centuries.
 
