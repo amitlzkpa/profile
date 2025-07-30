@@ -63,9 +63,6 @@ An interactive browser based globe to visualize GeoJSON files.
 ### [Screr](https://npmjs.com/screr)
 An npm package to create contribution reports for git repositories.
 
-### [NYC Landuse](https://nyc-landuse.herokuapp.com)
-A web app to visualize public land use data in New York City.
-
 ### [ArcRhino](https://github.com/nicoazel/ArcRhino)
 A plugin to bridge Rhino and ArcGIS by allowing you to easily take move information between both the applications.
 
